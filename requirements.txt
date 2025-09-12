@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+matplotlib
+PyMuPDF
+beautifulsoup4
+requests
+sentence-transformers
+transformers
+faiss-cpu
