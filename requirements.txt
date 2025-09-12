@@ -8,3 +8,4 @@ requests
 sentence-transformers
 transformers
 faiss-cpu
+arxiv
